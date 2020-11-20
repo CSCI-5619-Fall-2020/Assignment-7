@@ -2,7 +2,7 @@
 
 **Due: Friday, December 11, 10:00pm CDT**
 
-The purpose of this assignment is to gain experience in designing and implementing graphical user interfaces for virtual reality.  Note that this is an **optional bonus** assignment that will be averaged with the other programming assignments to calculate an overall score, which is worth 40% of your final grade.
+The purpose of this assignment is to gain experience in designing and implementing graphical user interfaces for virtual reality.  Note that this is an **optional bonus** assignment.  If you choose to complete this assignment, your lowest score from the previous six assignments will be dropped and replaced with this one.
 
 ## Submission Information
 
